@@ -9,6 +9,9 @@ Adding and removing products from the cart </br>
 View product list on homepage </br>
 Instantly update the number of baskets </br>
 
-This library is based on ### `react-router-dom`. ### `bootstrap` was used for UI components and styling. Used ### `toastify` for pop-up messages.
+This library is based on  `react-router-dom`.  `bootstrap` was used for UI components and styling. Used `toastify` for pop-up messages.
 
 <h3>Screen Gif</h3>
+
+![e-commerce](https://github.com/begpan/e-commerceReact/assets/145170180/42c7c0ed-5514-4b2d-9caf-6c0577091c91)
+
